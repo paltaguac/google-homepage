@@ -1,8 +1,11 @@
 #google-logo{
     text-align: center;
-    margin: 14em auto auto auto;
 }
 #search-bar{
-    text-align: center; 
-    margin: 1em auto 5em auto;   
+    text-align: center;   
+}
+.button{
+    text-align: center;
+    margin: 11px 4px;
+    padding: 0 16px;
 }
