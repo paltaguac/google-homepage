@@ -1,6 +1,8 @@
 #google-logo{
     text-align: center;
-    margin-top: 170px;}
+    margin: 14em auto auto auto;
+}
 #search-bar{
-    text-align: center;
+    text-align: center; 
+    margin: 1em auto 5em auto;   
 }
