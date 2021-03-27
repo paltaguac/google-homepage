@@ -1,0 +1,1 @@
+A google clone for The odin project, learning the basics.
