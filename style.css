@@ -1,6 +1,5 @@
 
 #google-logo{
-    text-align: center;
     padding-top: 170px;
 }
 #search-bar{
@@ -12,17 +11,17 @@
     padding: 0 16px;
 }
 nav{
-    background-color: rgba(133, 133, 133, 0.616);
+
     font-size: 12px;
     margin: 2em 2em auto 1.5em;
     box-sizing: border-box;
 }
 
 .rightnav{
-    float: right;
+    float: inline-end;
 }
 .leftnav{
-    float: left;
+    float: inline-start;
 }
 a{
     display: inline-block;
@@ -35,4 +34,12 @@ a{
     margin-left: 10px;
     height: 29px;
     width: 70px;
+}
+footer{
+    width: 99%;
+    position: absolute;
+    bottom: 0%;
+    background-color:rgb(224, 223, 223);
+    box-sizing: border-box !important;
+    height: 30px;
 }
